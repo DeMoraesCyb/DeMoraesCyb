@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @DeMoraesCyb
-- 👀 I’m interested in learning new languages an doing carreer transition!
-- 🌱 I’m currently learning JS and Logical
-- 💞️ I’m looking to collaborate on CyberSec and Dev (still deciding)
-- 📫 How to reach me rafaelm1991@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I'm a military and a I want to jump off 'cause I'm tired do move around all states in Brazil. Accepting job abbroad!
-
+## Hi there 👋
+## I'm Rafael AKA De Moraes
+## Languages and Tools Learning
+<img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+## Contact
+<div>
+<a href="https://instagram.com/rsm.cwb.1991" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:rafaelm1991@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafael-moraes-74540b78" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 <!---
 DeMoraesCyb/DeMoraesCyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
